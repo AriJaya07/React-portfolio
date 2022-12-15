@@ -1,6 +1,6 @@
-import "./about.css";
-import Certificate from "../../img/Certificate.jpg";
-import work from "../../img/team.jpg";
+import './about.css';
+import Certificate from '../../img/Certificate.jpg';
+import work from '../../img/team.jpg';
 
 const About = () => {
   return (
