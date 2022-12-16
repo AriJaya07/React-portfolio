@@ -1,6 +1,6 @@
 import './about.css';
 import Certificate from '../../img/Certificate.jpg';
-import work from '../../img/team.jpg';
+import work from '../../img/book.jpg';
 
 const About = () => {
   return (
@@ -18,7 +18,7 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          My job experience is Engineering
+          As Fresh Graduate Person
         </p>
         <p className="a-desc">
           I interested to become a Web Developer, because it will give more opportunity in the future. This job will change the daily activity of the people in the world, bringing to Digital World and I can participate in this new era. This job also have good salary for my properous in the country.
