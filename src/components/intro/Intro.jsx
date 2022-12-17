@@ -16,9 +16,9 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-              I'm a self-taught Developer. I learned progarmming languages through made real-world project such as Documentation site, paper book, youtube social media and etc.
-              I interested to become a Web Developer, because I learned that you can do anything and in there aren't any limit.
-              If you interested in what you saw, please feel free to Contact me.
+              I'm a self-taught Developer. I have learned progarmming languages through made real-world project such as documentation site, paper book, youtube social media and etc.
+              I am interest in becoming a Web Developer, because I learned that you can do anything and there is't any limit.
+              If you interested in what you saw, please feel free to contact me.
           </p>
         </div>
         <svg

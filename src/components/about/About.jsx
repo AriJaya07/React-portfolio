@@ -21,7 +21,7 @@ const About = () => {
           As Fresh Graduate Person
         </p>
         <p className="a-desc">
-          I interested to become a Web Developer, because it will give more opportunity in the future. This job will change the daily activity of the people in the world, bringing to Digital World and I can participate in this new era. This job also have good salary for my properous in the country.
+          I am interest in becomimg a Web Developer, because it will give more opportunity in the future. This job will change the daily activity of the people in the world, bringing to Digital World and I can participate in this new era. This job also have good salary for my properous in the country.
         </p>
         <div className="a-award">
           <img src={Certificate} alt="" className="a-award-img" />

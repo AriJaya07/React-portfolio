@@ -26,11 +26,10 @@ const ProductList = () => {
                 <Product5 />
                 <Product6 />
         </div>
-        <div className="p-button">
+        <div>
             <a href="https://github.com/AriJaya07">
-                <button>View Search Code</button>
+                <button >View Search Code</button>
             </a>
-            
         </div>
     </div>
    

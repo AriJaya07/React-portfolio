@@ -28,7 +28,7 @@ const Contact = () => {
         }, (error) => {
             console.log(error.text);
         });
-    }
+    };
 
   return (
     <div className="c">
@@ -54,20 +54,20 @@ const Contact = () => {
             <div className="c-right">
                 <p className="c-desc">
                     <b>What’s your story?</b> Get in touch. Always available for
-                    freelancing if the right project comes along. me.
+                    freelancing if the right project comes along.
                 </p>
                 <form ref={formRef} onSubmit={handleSubmit}>
                     <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Name" name="user_name" />
                     <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Subject" name="user_subject" />
                     <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Email" name="user_email" />
                     <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Message" name="message" />
-                    <button>Submit</button>
-                    {done && "Thank you..."}
+                    <button type="submit">Submit</button>
+                    {done && " Thank You. I will respond soon..."}
                 </form>
             </div>
         </div>
     </div>
-  )
-}
+  );
+};
 
 export default Contact;
