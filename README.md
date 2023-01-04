@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Portfolio Using React.JS
+The website is minimalize portfolio using React.js, it's a single page for personal information. Context API to change design dark mode and light mode and responsive with mobile device [Live Demo](https://ari-portfolio.web.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Creating React app 
 
-## Available Scripts
+      npx create-react-app my-app
 
-In the project directory, you can run:
+## Installation adding packages
+
+### Send message directly to my email free access with limit 200 email per day. [Emailjs](https://www.emailjs.com/)
+      npm install @emailjs/browser
+      
+### font-family: ‘poppins’ sans-serif in [Font](fonts.google.com)
+
+### create any shape in css custom in [Shape](bennettfeely.com)
 
 ### `npm start`
 
@@ -26,6 +34,34 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+### Deploy to firebase in [Server](firebase.google.com)
+1. - Install Firebase Tools
+We need to install firebase tools globally in the command prompt window.
+
+    npm install -g firebase-tools
+    
+2. - Initialize the Firebase App
+First we need to login to Firebase in the command prompt.
+
+### `firebase login`
+    
+Open the root folder of your app in the command prompt and run the following command.
+
+### `firebase init`
+    
+This command will initialize your app.
+
+NOTE − If you have used a default configuration, the public folder will be created and the index.html inside this folder will be the starting point of your app. You can copy your app file inside the public folder as a workaround.
+
+3. - Deploy Firebase App
+This is the last step in this chapter. Run the following command from the command prompt to deploy your app.
+
+### `firebase deploy`
+    
+After this step, the console will log your apps Firebase URL. In our case, it is called https://tutorialsfirebase.firebaseapp.com. We can run this link in the browser to see our app.
+
+In the project directory, you can run:
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
