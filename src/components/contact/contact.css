@@ -1,5 +1,5 @@
 .c {
-    height: 100vh;
+    height: 80vh;
     position: relative;
 }
 
@@ -81,6 +81,11 @@ button {
 }
 
 @media screen and (max-width: 480px) {
+    .c {
+        height: 100%;
+        padding-bottom: 50px;
+    }
+
     .c-wrapper {
         flex-direction: column;
         padding: 0px 50px;
