@@ -59,7 +59,7 @@ const Intro = () => {
               }}>
                 <p style={{ fontWeight: 'bold', paddingLeft: '10px', paddingRight: '10px' }}>Experience:</p>
                 <ul>
-                  <li>+1 experience in front-end Developer on-site company</li>
+                  <li>+1 experience in front-end developmentt on-site company</li>
                   <li>Deploy own project 'Bali News' App to app store & play store</li>
                   <li>Develop and maintenance web and mobile app project</li>
                   <li>Freelance to build and maintenance the web project</li>
