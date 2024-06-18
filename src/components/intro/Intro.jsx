@@ -22,7 +22,7 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            I'm a self-taught Developer with an +2 years of experience in software development. I have learned programming languages through creating real-world projects such as documentation sites, paper books, social media platforms like YouTube, and more. I am passionate about becoming a software development because I've discovered that the possibilities in this field are limitless. If you are interested in what you see, please feel free to contact me.
+            I'm a self-taught in software development with an +2 years of experience. I have learned programming languages through creating real-world projects such as documentation sites, paper books, social media platforms like YouTube, and more. I am passionate about becoming a software development because I've discovered that the possibilities in this field are limitless. If you are interested in what you see, please feel free to contact me.
           </p>
         </div>
       </div>
@@ -37,16 +37,16 @@ const Intro = () => {
                   JavaScript &  Typescript
                 </li>
                 <li>
-                  Reat.js & Next.js
+                  React.js & Next.js
                 </li>
                 <li>
-                  Nest.js & Mysql Database
+                  Nest.js & MySQL Database
                 </li>
                 <li>
                   Angular.js
                 </li>
                 <li>
-                  React Native
+                  React Native expo
                 </li>
                 <li>
                   Python & Django
